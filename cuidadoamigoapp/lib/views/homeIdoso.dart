@@ -29,7 +29,7 @@ class HomeIdoso extends StatelessWidget {
       ),
       body: Center(
         child:Padding(
-          padding: EdgeInsets.only(bottom:170.0),
+          padding: EdgeInsets.only(bottom:175.0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
